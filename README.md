@@ -1,6 +1,6 @@
 # Car Rental Application
 
-This is a web-based car rental application designed and developed using HTML, CSS, JavaScript, Django, and a database system (mention your choice of database system here).
+This is a web-based car rental application designed and developed using HTML, CSS, JavaScript, Django, and a database system SQLite.
 
 ## Features
 
@@ -15,7 +15,7 @@ This is a web-based car rental application designed and developed using HTML, CS
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Django
-- **Database**: [Mention your choice of database system, e.g., SQLite, PostgreSQL, MySQL]
+- **Database**: SQLite
 - **Version Control**: Git, GitHub
 
 ## Installation
