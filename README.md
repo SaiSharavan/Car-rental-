@@ -34,7 +34,7 @@ This is a web-based car rental application designed and developed using HTML, CS
 3. Browse available cars, make bookings, and manage your bookings.
 4. Admin users can access the admin panel at `http://localhost:8000/admin` to manage car listings and bookings.
 
-## Screenshots
+## Demo
 
 ![image](https://github.com/SaiSharavan/Car-rental-/assets/171143906/f73ddf11-8c4e-4bf7-9171-003345411139)
 
