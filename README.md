@@ -16,7 +16,7 @@ In developing the web-based car rental application, Python played a pivotal role
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Django
+- **Backend**: Django(Python)
 - **Database**: SQLite
 - **Version Control**: Git, GitHub
 
