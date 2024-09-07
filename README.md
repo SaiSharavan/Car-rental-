@@ -2,6 +2,8 @@
 
 This is a web-based car rental application designed and developed using HTML, CSS, JavaScript, Django, and a database system SQLite.
 
+In developing the web-based car rental application, Python played a pivotal role, particularly through the Django framework. I leveraged my Python skills to build the server-side logic that powers the entire application. Django, a high-level Python web framework, allowed me to efficiently manage the backend operations, including user authentication, data management, and interaction with the database.
+
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and log out securely.
